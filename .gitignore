@@ -1,0 +1,7 @@
+.venv
+.env
+ffmpeg.exe
+ffprobe.exe
+files/apostila.pdf
+files/LLM.pdf
+files/Top 1000 IMDB movies.csv
