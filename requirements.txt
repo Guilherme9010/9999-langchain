@@ -33,3 +33,5 @@ sentence-transformers
 langchain-chroma
 faiss-cpu
 lark
+pyaudioop 
+yt-dlp
